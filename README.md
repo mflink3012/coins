@@ -33,7 +33,7 @@ See shipped [depends.txt](depends.txt).
 
 ## Known issues?
 
-See the [issues](issues)-tab in GitHub-Repository.
+See the `issues`-tab in GitHub-Repository.
 
 ## Tested with?
 
