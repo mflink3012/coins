@@ -26,13 +26,14 @@ See shipped [depends.txt](depends.txt).
 
 ## How to use?
 
-1. Open the inventory.
-2. Place whatever you want to remove from the inventory onto the tashbin-icon.
-3. Tada! The waste is gone forever!
+1. Melt one steel-ingot to two steel-coins in furnace
+2. Melt one copper-ingot to two copper-coins in furnace 
+3. Melt one bronze-ingot to two bronze-coins in furnace
+4. Melt one gold-ingot to two gold-coins in furnace
 
 ## Known issues?
 
-See the ``issues``-tab in GitHub-Repository.
+See the [issues](issues)-tab in GitHub-Repository.
 
 ## Tested with?
 
